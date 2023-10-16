@@ -1,0 +1,16 @@
+.navbar {
+    background-color: aqua;
+}
+.logo {
+    width: 95px;
+    height: auto;
+    margin-bottom: 6px;
+}
+.log-out {
+    position: absolute;
+    right: 20px;
+    padding: 8px 16px;
+    background-color: #fff;
+    color: #000;
+    cursor: pointer;
+}

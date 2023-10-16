@@ -1,0 +1,45 @@
+.sign-up {
+    height: 100vh;
+    width: 100%;
+    background-color: #f0eff2;
+    display: flex;
+}
+.sign-up-img {
+    height: 100vh;
+    width: 50%;
+    overflow: hidden;
+}
+.sign-up-img img {
+    width: 100%;
+    height: auto;
+}
+.sign-up-form {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    width: 50%;
+}
+.sign-up-form h1 {
+    font-weight: 400;
+}
+.sign-up-btn {
+    height: 10vh;
+    background-color: #4815ad;
+    border: none;
+    color: #f0eff2;
+    font-size: 16px;
+    cursor: pointer;
+}
+.toggle-tab {
+    width: 36%;
+    height: 7vh;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.toggle-link {
+    text-decoration: underline;
+    cursor: pointer;
+}

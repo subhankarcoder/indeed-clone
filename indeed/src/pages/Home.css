@@ -1,0 +1,32 @@
+.home-holder {
+    display: flex;
+    width: 100%;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+}
+.home-content {
+    display: flex;
+    flex-direction: column;
+}
+.home-content h1 {
+    font-size: 40px;
+    max-width: 500px;
+}
+.home-content button {
+    width: 30%;
+    padding: 8px 16px;
+    background-color: #2d2d2d;
+    color: #fff;
+    border: none;
+    font-size: 16px;
+    cursor: pointer;
+}
+.home-img {
+    height: auto;
+    width: 40%;
+}
+.home-img img {
+    width: 100%;
+    height: auto;
+}
